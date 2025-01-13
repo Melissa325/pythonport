@@ -6,7 +6,8 @@
 
 
 #Name Generator 
-#Name generator is a code that will help determine what tv show you are based on your prefrences that are asked. 
+#Name generator is a code that will help determine what tv show you are based on your prefrences that are asked.
+#
 
 
 #Multiplication Quiz
@@ -14,4 +15,11 @@
 #I was able to display a timer that shows how long it took to answer all the questions. 
 
 
-#
+#Rock Paper Scissors Game
+#This game is like the tradicional game but instead you play against the computer. You pick which to throw first and the computer randomly throws one too. It lets you know if you have won or lost.
+#in the coding I have displayed the amount of wins, losses, and ties you get, if you decide to keep playing. 
+
+
+#Simple Calculator
+#You pick an operation of choice, that you would like to calculate. you input the numbers and it provides an answer for you. 
+#The program will finish when the person decides to quit. 
