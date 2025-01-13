@@ -10,4 +10,8 @@
 
 
 #Multiplication Quiz
+#This coding quizezs people on their multiplication. The user is allowed to choose the level of difficulty and the amount of questions they'd like to be quized on. 
+#I was able to display a timer that shows how long it took to answer all the questions. 
+
+
 #
